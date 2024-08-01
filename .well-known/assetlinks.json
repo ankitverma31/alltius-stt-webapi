@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.speechtotextalltiusapp",
+      "sha256_cert_fingerprints": [
+        "12:AB:FE:FA:DF:E8:B3:E4:3B:40:7D:CA:E9:A2:EF:43:1B:68:B3:41:1B:AA:12:DC:CE:6C:01:62:8D:6D:47:30"
+      ]
+    }
+  }
+]
